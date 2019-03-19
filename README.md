@@ -14,7 +14,7 @@ https://www.instagram.com/roniel.dias
 # Habilidades
 Linguagens : Python, C++
 
-Desenvolvimento : Programação tipo estruturara para terminal de comando em OS
+Desenvolvimento : Programação tipo estruturara para terminal de comando OS
 
 # Interesses
 Concluir a graduação e posteriormente participar de algum projeto que envolva redes e/ou internet das coisas
