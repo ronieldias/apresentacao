@@ -13,9 +13,8 @@ https://www.instagram.com/roniel.dias
 
 # Habilidades
 Linguagens : Python, C++
+
 Desenvolvimento : Programação tipo estruturara para terminal de comando em OS
 
 # Interesses
 Concluir a graduação e posteriormente me envolver em algum projeto que envolva redes e/ou internet das coisas
-
-> Written with [StackEdit](https://stackedit.io/).
