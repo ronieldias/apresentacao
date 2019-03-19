@@ -17,4 +17,4 @@ Linguagens : Python, C++
 Desenvolvimento : Programação tipo estruturara para terminal de comando em OS
 
 # Interesses
-Concluir a graduação e posteriormente me envolver em algum projeto que envolva redes e/ou internet das coisas
+Concluir a graduação e posteriormente participar de algum projeto que envolva redes e/ou internet das coisas
