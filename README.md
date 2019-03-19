@@ -6,7 +6,9 @@ Tenho 21 anos, sou natural de Cabeceiras PI, moro em Teresina desde 2014 e comec
 
 # Contatos
 email : ronieldias01@gmail.com
+
 https://www.facebook.com/roniel.dias.714
+
 https://www.instagram.com/roniel.dias
 
 # Habilidades
