@@ -15,7 +15,7 @@
   Conhecer mais linguagens de programação, aprender a programar para web, me formar e posteriormente ao curso participar de algum projeto   que envolva redes e/ou internet das coisas
 
 # Outras ocupações
-  Participo como aluno do projeto Música Para Todos
+  Projeto Música Para Todos (aluno)
 
 # Contatos
   email : ronieldias01@gmail.com
