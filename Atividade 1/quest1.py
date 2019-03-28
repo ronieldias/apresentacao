@@ -15,10 +15,10 @@ def main():
 
 
 def info(response):
-    print(response.status_code)
-    print(response.headers['content-type'])
-    print(len(response.text), 'bytes')
-    print(response.text)
+    print("Status code:\n", response.status_code)
+    print("Cabeçalhos:\n", response.headers['content-type'])
+    print("Tamanho da resposta:\n", len(response.text), 'bytes')
+    print("Corpo da resposta:\n", response.text)
 
 if __name__ == '__main__':
     main()
